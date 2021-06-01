@@ -1,4 +1,4 @@
-# @Sk70249 Reverse Integer solution in Python
+# @Sk70249 solution in Python
 '''
 Example 1:
 Input: strs = ["flower","flow","flight"]
