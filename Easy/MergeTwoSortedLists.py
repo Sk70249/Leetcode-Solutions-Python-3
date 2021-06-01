@@ -1,4 +1,4 @@
-# @Sk70249 Reverse Integer solution in Python
+# @Sk70249 solution in Python
 '''
 Input: l1 = [1,2,4], l2 = [1,3,4]
 Output: [1,1,2,3,4,4]
