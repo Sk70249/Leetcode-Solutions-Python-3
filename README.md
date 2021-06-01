@@ -18,5 +18,5 @@ Solutions of leetcode problems level vise in Python 3
 ## Medium
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-02 | [Add Two Numbers](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/Sk70249/Leetcode-Solutions-Python-3/blob/main/Easy/TwoSums.py) | _O(n)_       | _O(1)_          | Easy         |||
-03 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/reverse-integer/)  |  [Python](https://github.com/Sk70249/Leetcode-Solutions-Python-3/blob/main/Easy/ReverseInteger.py) | _O(1)_        | _O(1)_          | Easy           |||
+02 | [Add Two Numbers](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/Sk70249/Leetcode-Solutions-Python-3/blob/main/Easy/TwoSums.py) | _O(n)_       | _O(1)_          | Medium         |||
+03 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/reverse-integer/)  |  [Python](https://github.com/Sk70249/Leetcode-Solutions-Python-3/blob/main/Easy/ReverseInteger.py) | _O(1)_        | _O(1)_          | Medium          |||
